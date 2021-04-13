@@ -26,7 +26,6 @@
 <details>
   <summary>Basic Commands</summary>
 
-  ## Heading
 Command|What about it
 :--|:--
 `npm --version` or `npm -v`|shows current version
